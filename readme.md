@@ -9,9 +9,9 @@ Find the codes in the **src** directory.
 
 ## Set Up
 
--Open _js.js_ file and edit the necessary parameters to fit your needs
--Open _apis.php_ and add APIs if you wish to. 
--And finally, make the changes in the _index.php_ file.
+- Open _js.js_ file and edit the necessary parameters to fit your needs
+- Open _apis.php_ and add APIs if you wish to. 
+- And finally, make the changes in the _index.php_ file.
 
 
 
