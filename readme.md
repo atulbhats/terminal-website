@@ -1,10 +1,21 @@
 # atulbhats.com-terminal-version
 The Website code for the terminal version of atulbhats.com
 
-Find the codes in the src directory. 
+View the working code at [atulbhats.com](http://atulbhats.com)
 
-Open _js.js_ file and edit the necessary parameters to fit your needs
+## Files
 
-Open _apis.php_ and add APIs if you wish to. 
+Find the codes in the **src** directory. 
+
+## Set Up
+
+-Open _js.js_ file and edit the necessary parameters to fit your needs
+-Open _apis.php_ and add APIs if you wish to. 
+-And finally, make the changes in the _index.php_ file.
+
+
+
+
+
 
 
