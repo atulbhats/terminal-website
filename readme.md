@@ -1,4 +1,4 @@
-# atulbhats.com-terminal-version
+# terminal themed website design
 The Website code for the terminal version of atulbhats.com
 
 View the working code at [atulbhats.com](http://atulbhats.com)
