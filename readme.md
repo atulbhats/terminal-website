@@ -1,7 +1,7 @@
 # terminal themed website design
 The Website code for the terminal version of atulbhats.com
 
-View the working code at [atulbhats.com](http://atulbhats.com)
+View the working code at [t.atulbhats.com](http://t.atulbhats.com)
 
 ## Files
 
